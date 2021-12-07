@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adrianpkennedy
 - 👀 I’m interested in data science and financial data analytics. 
 - 🌱 I’m experienced in R and am currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on financial/investment/economic models
 - 📫 How to reach me ...
 
 <!---
